@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm deeply passionate about cybersecurity, constan
 
 Feel free to reach out to me for collaborations, questions, or just to say hi:
 
-- Email: [kkshaikh@syr.edu](mailto:kkshaikh@syr.edu)
+- Email: [khalid06188@gmail.com](mailto:khalid06188@gmail.com)
 - LinkedIn: [Khalid Shaikh](https://www.linkedin.com/in/khalid-k-shaikh)
-- Twitter: [@khalid06188](https://twitter.com/YourTwitterHandle)
+- Twitter: [@khalid06188](https://twitter.com/kks12)
 
 
 
