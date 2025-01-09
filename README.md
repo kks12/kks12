@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with a
 
 ## Certifications 📜
 
-CompTIA CYSA+ | AWS SAA | KCSA | ISC2 CC
+- CompTIA CYSA+
+- AWS Solutions Architect – Associate
+- Certified in Cybersecurity (CC) – ISC2
 
 ## 💞️ I’m looking to collaborate on
 
