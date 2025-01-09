@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with a
 - Cloud security best practices
 - Cryptography and secure communication protocols
 
-## Certifications 📜
+## 📜 Certifications 
 
 - CompTIA CYSA+
 - AWS Solutions Architect – Associate
