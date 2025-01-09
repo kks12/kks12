@@ -36,7 +36,9 @@ Welcome to my GitHub profile! I'm deeply passionate about cybersecurity, constan
 Feel free to reach out to me for collaborations, questions, or just to say hi:
 
 - Email: [khalid06188@gmail.com](mailto:khalid06188@gmail.com)
-- LinkedIn: [Khalid Shaikh](https://www.linkedin.com/in/khalid-k-shaikh)
+<p align="left">
+<a href="https://linkedin.com/in/khalid-k-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-k-shaikh" height="30" width="40" /></a>
+</p>
 
 
 
